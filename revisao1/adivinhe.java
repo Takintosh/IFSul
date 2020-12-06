@@ -46,7 +46,6 @@ public class adivinhe {
 
         }
 
-        input.close();
     }
 
 }

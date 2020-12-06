@@ -14,7 +14,6 @@ public class palindromo {
 
         System.out.print("\nInforme a frase: ");
         frase = input.nextLine();
-        input.close();
 
         frase = frase.replace(" ", "");
         frase = frase.toLowerCase();

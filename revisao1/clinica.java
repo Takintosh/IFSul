@@ -114,7 +114,6 @@ public class clinica {
                 pbaixa = i;
             }
 
-
         }
 
         System.out.print("\nRelatorio ");
@@ -131,8 +130,6 @@ public class clinica {
             System.out.print(nomes[pbaixa]);
         }
         System.out.print("\n-------------------------------------------------------------------------------------");
-        
-        input.close();
 
     }
     

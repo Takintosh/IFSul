@@ -32,8 +32,6 @@ public class piramide {
             System.out.print("\n");
         }
 
-        input.close();
-
     }
     
 }
